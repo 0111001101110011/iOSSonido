@@ -14,6 +14,7 @@
 		3D634CC1230DECD30067919D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D634CBF230DECD30067919D /* LaunchScreen.storyboard */; };
 		3D634CCC230DECD30067919D /* SonidosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D634CCB230DECD30067919D /* SonidosTests.swift */; };
 		3D634CD7230DECD30067919D /* SonidosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D634CD6230DECD30067919D /* SonidosUITests.swift */; };
+		3D634CE5230DECF50067919D /* AUDIO 29.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3D634CE4230DECF50067919D /* AUDIO 29.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3D634CD2230DECD30067919D /* SonidosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SonidosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D634CD6230DECD30067919D /* SonidosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SonidosUITests.swift; sourceTree = "<group>"; };
 		3D634CD8230DECD30067919D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D634CE4230DECF50067919D /* AUDIO 29.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "AUDIO 29.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		3D634CB5230DECCE0067919D /* Sonidos */ = {
 			isa = PBXGroup;
 			children = (
+				3D634CE4230DECF50067919D /* AUDIO 29.wav */,
 				3D634CB6230DECCE0067919D /* AppDelegate.swift */,
 				3D634CB8230DECCE0067919D /* ViewController.swift */,
 				3D634CBA230DECCF0067919D /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3D634CC1230DECD30067919D /* LaunchScreen.storyboard in Resources */,
+				3D634CE5230DECF50067919D /* AUDIO 29.wav in Resources */,
 				3D634CBE230DECD30067919D /* Assets.xcassets in Resources */,
 				3D634CBC230DECCF0067919D /* Main.storyboard in Resources */,
 			);
